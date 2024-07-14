@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: kang.alamsyah.hutama.test.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.049 s - in kang.alamsyah.hutama.test.CalculatorTest

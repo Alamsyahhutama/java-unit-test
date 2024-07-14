@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: kang.alamsyah.hutama.test.ConditionTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 0.064 s - in kang.alamsyah.hutama.test.ConditionTest
